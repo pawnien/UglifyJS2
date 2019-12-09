@@ -14,7 +14,7 @@
   "repository": "mishoo/UglifyJS2",
   "main": "tools/node.js",
   "bin": {
-    "uglifyjs": "bin/uglifyjs"
+    "uglifyjsES": "bin/uglifyjs"
   },
   "files": [
     "bin",
